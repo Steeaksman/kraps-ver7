@@ -76,10 +76,11 @@
                     <p class="mt-5 text-2xl font-semibold">
                         <!-- <a href="#" title="" class="text-black"> Read and share Table Reports </a> -->
                     </p>
-                    <p class="mt-4 text-base text-gray-600">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.</p>
+                    <p class="mt-4 text-base text-gray-600">Check out real live Table Reports submitted by the members of our community.
+                        How are the table conditions? How did your last craps play turn out? Have a unique playing experience at a casino? Share it with fellow craps players by submitting your own Table Report</p>
                     <a href="#" title="" class="inline-flex items-center justify-center pb-0.5 mt-5 text-base font-semibold text-blue-600 transition-all duration-200 border-b-2 border-transparent hover:border-blue-600 focus:border-blue-600">
                         
-                        <NuxtLink to="/tableReports"> View Table Reports</NuxtLink>
+                        <NuxtLink to="/tablechoose"> View Table Reports</NuxtLink>
                         <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
                         </svg>
