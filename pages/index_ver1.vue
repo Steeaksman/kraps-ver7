@@ -52,11 +52,9 @@
                         <a href="#" title="" class="text-black"> Research and find Casinos that have Craps Tables in your Area </a>
                     </p>
                     <p class="mt-4 text-base text-gray-600">Need to locate a casino to play craps? Over 800 casinos are listed in our database along with location details.You can search for casinos near you and arrange your personal gaming excursions</p>
-
-                    <a href="#" title="" class="inline-flex items-center justify-center pb-0.5 mt-5 text-base font-semibold text-blue-600 transition-all duration-200 border-b-2 border-transparent hover:border-blue-600 focus:border-blue-600">
+                    
                         
-                        <NuxtLink to="/searchchoose"> View Casino List</NuxtLink></a>
-                        
+                        <NuxtLink to="/tablechoose"> View Table Reports</NuxtLink>   
                         <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
                         </svg>
@@ -109,8 +107,7 @@
                     </p>
                     <p class="mt-4 text-base text-gray-600">Stay up to date with the latest news from the world of craps, including game strategies, tournament highlights, and exciting developments in top casinos. We also bring you exclusive casino promotions, from bonus offers to VIP rewards tailored for craps players. Whether you're a seasoned shooter or just getting started, our updates ensure you never miss a great roll or a special deal! </p>
                     <a href="#" title="" class="inline-flex items-center justify-center pb-0.5 mt-5 text-base font-semibold text-blue-600 transition-all duration-200 border-b-2 border-transparent hover:border-blue-600 focus:border-blue-600">
-                        <!-- View Specials and News -->
-                        <NuxtLink to="/offersnews"> View Specials and News</NuxtLink>
+                        View Specials and News
                         <svg class="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
                         </svg>

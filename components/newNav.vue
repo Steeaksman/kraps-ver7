@@ -9,6 +9,7 @@
           <NuxtLink to="/"> Home</NuxtLink>
           <NuxtLink to="/searchchoose"> Casinos List</NuxtLink>
           <NuxtLink to="/tablechoose"> Table Reports</NuxtLink>
+          <NuxtLink to="/offersnews"> Specials and News</NuxtLink>
           <NuxtLink to="/login"> Login</NuxtLink>
           <!-- <li><a href="#" class="hover:underline">Home</a></li>
           <li><a href="#" class="hover:underline">Casinos List</a></li>
@@ -46,6 +47,7 @@
       <NuxtLink to="/"> Home</NuxtLink>
           <NuxtLink to="/searchchoose"> Casinos List</NuxtLink>
           <NuxtLink to="/tablechoose"> Table Reports</NuxtLink>
+          <NuxtLink to="/offersnews"> Specials and News</NuxtLink>
           <NuxtLink to="/login"> Login</NuxtLink>
       </ul>
     </header>
