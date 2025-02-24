@@ -111,6 +111,10 @@
   
       const result = await response.json();
       console.log('Success:', result);
+
+       // Option 1: Using navigateTo
+    await navigateTo('/success-page');
+    
     } catch (error) {
       console.error('Error:', error);
     }
