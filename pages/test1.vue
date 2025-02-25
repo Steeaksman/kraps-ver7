@@ -18,7 +18,7 @@
             </div>
           </div>
           <div class="md:w-1/2 md:pl-10">
-            <img src="/api/placeholder/600/400" alt="Casino Tables" class="rounded-lg shadow-xl" />
+            
           </div>
         </div>
       </div>

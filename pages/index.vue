@@ -15,7 +15,7 @@
                 <h2 class="text-2xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">A Resource for Serious Craps Players</h2>
                 <h1 class="py-10 text-xl w-1/2 mx-auto bg-gray-50 sm:py-16 lg:py-24">
     Whether you're a seasoned pro or a newbie, this site is the resource for serious craps players.
-     Search for casinos throughout the country, read and write trip and table reports and catch up 
+     Search for casinos throughout the country, read and write trip reports and catch up 
      on the latest news and insider tips from the craps world. 
 </h1>
             </div>
@@ -79,8 +79,9 @@
                     <p class="mt-5 text-2xl font-semibold">
                         <a href="#" title="" class="text-black"> Read and share Table Reports </a>
                     </p>
-                    <p class="mt-4 text-base text-gray-600">Check out real live Table Reports submitted by the members of our community.
-                        How are the table conditions? How did your last craps play turn out? Have a unique playing experience at a casino? Share it with fellow craps players by submitting your own Table Report</p>
+                    <p class="mt-4 text-base text-gray-600">Discover the best Casino Table Reports and insights from our trusted community of players. How are the table conditions? How did your last craps play turn out? Have a unique playing experience at a casino? Share it with fellow craps players by submitting your own Table Report.
+
+</p>
                     <a href="#" title="" class="inline-flex items-center justify-center pb-0.5 mt-5 text-base font-semibold text-blue-600 transition-all duration-200 border-b-2 border-transparent hover:border-blue-600 focus:border-blue-600">
                         
                         <NuxtLink to="/tablechoose"> View Table Reports</NuxtLink>

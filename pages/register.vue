@@ -1,4 +1,5 @@
 <template>
+     <div  class="max-w-2xl mx-auto mt-10 p-6 bg-white border border-gray-200 rounded-lg shadow-md">
   <div>
       <form @submit.prevent="signUp" class="max-w-md mx-auto">
   <div class="relative z-0 w-full mb-5 group">
@@ -38,6 +39,7 @@
   </div>
       </form>
   </div>
+</div>
 </template>
 
 <script setup>
